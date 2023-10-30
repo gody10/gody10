@@ -15,7 +15,7 @@
 - Enrolled in the MSc in Computer Science at the Athens University of Economics and Business (AUEB)
 - Research interests include Reinforcement Learning, Natural Language Processing and Large Language Models
 - I’m currently looking for PhD oppurtunities
-- Personal website [link](https://gody10.github.io)
+- Personal website : [link](https://gody10.github.io)
 
 <br><br>
 
