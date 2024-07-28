@@ -14,7 +14,7 @@
 - Volleyball, Philosophy and Dog lover
 - PhD student in Computer Science at the University of New Mexico (UNM)
 - Research interests include Reinforcement Learning, Natural Language Processing and Large Language Models
-- Personal website : [link](https://gody10.github.io)
+- Personal website : [CLICKME!](https://gody10.github.io)
 
 <br><br>
 
