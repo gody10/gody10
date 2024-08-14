@@ -10,11 +10,11 @@
 
 <br>
 
-- A passionate Machine Learning Research Engineer
-- Volleyball, Philosophy and Dog lover
 - PhD student in Computer Science at the University of New Mexico (UNM)
-- Research interests include Reinforcement Learning, Natural Language Processing and Large Language Models
+- Passionate Researcher
+- Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
 - Personal website : [CLICKME!](https://gody10.github.io)
+- Volleyball, Philosophy and Dog lover
 
 <br><br>
 
