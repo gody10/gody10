@@ -14,7 +14,7 @@
 - Member of the [PROTON Lab](https://magwang1.github.io/)
 - Passionate Researcher
 - Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
-- Personal website : [CLICKME!](https://gody10.github.io)
+- [Personal website](https://gody10.github.io)
 - Part-time Philosopher and Volleyball player
 - Dog lover
 
