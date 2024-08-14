@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Odysseas (pronounced as oh - dh ee s - s EH - aa s) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Odysseas (pronounced as oh - dh ee s - s EH - aa s) </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdml2MnYzMXZ5ZnQ3cTNmOWllZzYweml3bDB0enpkcGs0cjdzcXZzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfrdKQCey780sSwRCT/giphy.gif" width="35"></h1> 
 <!--  -->
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;;PhD+Student+in+Computer+Science+at+UNM;Ready+to+surpass+my+limits;"></a>
