@@ -11,6 +11,7 @@
 <br>
 
 - PhD student in Computer Science at the University of New Mexico (UNM)
+- Member of the [PROTON Lab](https://magwang1.github.io/)
 - Passionate Researcher
 - Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
 - Personal website : [CLICKME!](https://gody10.github.io)
