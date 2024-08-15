@@ -10,8 +10,8 @@
 
 <br>
 
-- PhD student in Computer Science at the [University of New Mexico](https://www.unm.edu/) under the suprvision of Prof. [Eirini Eleni Tsiropoulou](http://www.ece.unm.edu/faculty-staff/electrical-and-computer/eirini-eleni-tsiropoulou.html)
-- Member of the [PROTON Lab](https://magwang1.github.io/)
+- PhD student in Computer Science at the [University of New Mexico](https://www.unm.edu/) under the suprvision of Prof. [Eirini Eleni Tsiropoulou](https://ece-research.unm.edu/tsiropoulou/Home.html)
+- Member of the PROTON Lab
 - Passionate Researcher
 - Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
 - [Personal website](https://gody10.github.io)
