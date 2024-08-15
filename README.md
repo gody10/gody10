@@ -10,7 +10,7 @@
 
 <br>
 
-- PhD student in Computer Science at the [University of New Mexico](https://www.unm.edu/) under the suprvision of Prof. [Eirini Eleni Tsiropoulou](https://ece-research.unm.edu/tsiropoulou/Home.html)
+- PhD student in Computer Science at the [University of New Mexico](https://www.unm.edu/) under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://ece-research.unm.edu/tsiropoulou/Home.html)
 - Member of the PROTON Lab
 - Passionate Researcher
 - Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
