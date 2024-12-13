@@ -13,7 +13,7 @@
 - PhD student in Computer Science at the [Arizona State University](https://www.asu.edu/) under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://ece-research.unm.edu/tsiropoulou/Home.html)
 - Member of the PROTON Lab
 - Passionate Researcher
-- Research interests include Reinforcement Learning, Multimodality, Natural Language Processing and Large Language Models
+- Research interests include Reinforcement Learning, Agent Decision Making in Complex Environments, Multi-Agent Decision Making, Game Theory and Multimodality
 - [Personal website](https://gody10.github.io)
 - Part-time Philosopher and Volleyball player
 - Dog lover
