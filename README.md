@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Odysseas (pronounced as oh - dh ee s - s EH - aa s) </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ5Znl0dnVvNHN0OTVhZ3B3Y2RnZ3c5cG8zOHl6dWtkaXY3bjJhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nw8z2olm0nGHC/giphy.gif" width="35"></h1> 
 <!--  -->
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;;PhD+Student+in+Computer+Science+at+UNM;Ready+to+surpass+my+limits;"></a>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;;Looking+for+PhD;Ready+to+surpass+my+limits;"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
