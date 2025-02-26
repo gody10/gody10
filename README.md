@@ -10,8 +10,8 @@
 
 <br>
 
-- Looking for PhD opportunities in the field of Computer Vision, NLP or intersections of those with Reinforcement Learning
-- Passionate Researcher
+- Looking for PhD opportunities in the field of Computer Vision, NLP, Reinforcement Learning, or in intersections of those
+- Experienced and Passionate Researcher
 - Research interests include Reinforcement Learning, Agent Decision Making in Complex Environments, Multi-Agent Decision Making, Game Theory and Multimodality
 - [Personal website](https://gody10.github.io)
 - Part-time Philosopher and Volleyball player
