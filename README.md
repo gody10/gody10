@@ -10,10 +10,9 @@
 
 <br>
 
-- Looking for PhD opportunities in the field of Computer Vision, NLP, Reinforcement Learning, or in intersections of those
+- PhD Student at The University of Edinburgh
 - Experienced and Passionate Researcher
-- Research interests include Reinforcement Learning, Agent Decision Making in Complex Environments, Multi-Agent Decision Making, NLP and Multimodality
-- [Personal website](https://gody10.github.io)
+- Research interests include Causality, Medical Imaging, Reinforcement Learning and Multimodality
 - Part-time Philosopher and Volleyball player
 - Dog lover
 
