@@ -4,10 +4,8 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;;Ready+to+surpass+my+limits;"></a>
 </p>
 
-**About me**
-
+**About me:**
 <br>
-
 - PhD Student at The University of Edinburgh supervised by Professor Sotirios Tsaftaris and Dr Alison O’Neil.
 - Experienced and Passionate Researcher
 - Research interests include Causality, Medical Imaging, Reinforcement Learning and Multimodality
