@@ -10,7 +10,7 @@
 
 <br>
 
-- PhD Student at The University of Edinburgh
+- PhD Student at The University of Edinburgh supervised by Professor Sotirios Tsaftaris and Dr Alison O’Neil.
 - Experienced and Passionate Researcher
 - Research interests include Causality, Medical Imaging, Reinforcement Learning and Multimodality
 - Part-time Philosopher and Volleyball player
